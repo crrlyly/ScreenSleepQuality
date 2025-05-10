@@ -1,20 +1,18 @@
 # Data Science Project Proposal
 
-## Title and Team Information
-
 ### Project Title:
 • Digital Dreams - Unveiling the Impact of Screen Time on Sleep Quality
 
-### Names of All Members:
+### Names:
 • Carly Chick 
 • Meryl Gideon
 
 ## Research Question and Motivation
 
-### Clearly state the research question you aim to answer:
+### Research Question:
 • What is the relationship between screen usage and sleep quality?
 
-### Provide context and motivation for why this question is important or interesting.
+### Motivation:
 • Our project examines the connection between screen time and sleep quality, highlighting
 the impact of electronic devices on our health. Poor sleep, linked to serious issues like
 stress, heart disease, and cognitive impairment, can be exacerbated by the blue light from
@@ -23,17 +21,17 @@ time management to improve sleep and overall well-being.
 
 ## Data Sources
 
-### Identify the data sources you plan to use.
+### Data Sources to Use:
 • Kaggle, Data.gov, Github18
 
-### Explain how you will obtain, clean, and preprocess the data.
+### How we will obtain, clean, and preprocess the data:
 • We will download the provided csv files on the kaggle website and also get any other
 information we need from the rest of our data sources.
 • We will make sure to drop any NULL values and to get rid of columns that we don’t need,
 make sure that numerical values are either int or floats, and we will get rid of any unneeded
 information by extracting data using regex.
 
-### If applicable, discuss potential challenges in data access, quality, or preprocessing.
+### Discuss potential challenges in data access, quality, or preprocessing:
 • A potential challenge we face is determining the most relevant data to use, especially when
 encountering datasets with multiple data points consolidated into a single cell, such as "3gb
 / 4gb."
@@ -42,7 +40,7 @@ extremely large so it is easy to miss uncleaned information.
 
 ## Methodology and Analysis Plan
 
-### Describe the data science techniques you intend to use.
+### Data science techniques we intend to use:
 • **Regex** - for searching and manipulating strings based on patterns. Will also use in data
 cleaning processes to remove unwanted characters.
 • Pandas - make dataframes and combine tables to see relationships between values.
@@ -50,7 +48,7 @@ cleaning processes to remove unwanted characters.
 • Data Visualization - Understanding the data through statistics (mean, median, mode, vari-
 ance, etc.) and distributions.
 
-### Outline your approach for data exploration, modeling, and evaluation.
+### Outline our approach for data exploration, modeling, and evaluation.
 
 • **Data Exploration**
 – We will download datasets from our mentioned data sources, making sure they are
@@ -77,14 +75,14 @@ research.
 – Tools used: Python, Matplotlib, Jupyter Notebook for documentation.
 
 ## Expected Outcomes and Evaluation
-### Discuss the anticipated findings or insights you hope to uncover.
+### Discuss the anticipated findings:
 • From our research, we hope to see the correlation between screen time and sleep quality,
 focusing on how different levels of screen use affect sleep duration and quality. We anticipate
 discovering variations in this correlation across different demographics like age groups.
 We also expect to see how the timing of screen usage influences sleep patterns, potentially
 identifying periods when screen exposure most negatively affects sleep quality.
 
-### Define metrics or evaluation criteria for assessing your results.
+### Define metrics or evaluation criteria for assessing our results:
 • We will use the Correlation Coefficient to assess the strength of the relationship between
 screen time and sleep quality, with values near -1 or 1 indicating strong correlations. We will
 also compare the average sleep quality of high vs low screen users to identify any significant
