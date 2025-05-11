@@ -1,4 +1,4 @@
-# Data Science Project Proposal
+# Data Science Research Project
 
 ### Project Title:
 • Digital Dreams - Unveiling the Impact of Screen Time on Sleep Quality
