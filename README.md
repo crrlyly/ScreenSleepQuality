@@ -87,8 +87,3 @@ identifying periods when screen exposure most negatively affects sleep quality.
 screen time and sleep quality, with values near -1 or 1 indicating strong correlations. We will
 also compare the average sleep quality of high vs low screen users to identify any significant
 differences and use the visual charts we created.
-
-5.3 If applicable, outline any potential extensions or broader implications of your work.
-• Our findings could help shape technology usage guidelines, influencing public health policies
-and wellness, and could enrich the discourse on digital well-being, offering evidence on
-how technology impacts our health.
